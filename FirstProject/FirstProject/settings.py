@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': 'Anusha1224.mysql.pythonanywhere-services.com'
         'PORT': '',		#3306 or 3308
-        'NAME': 'Anusha1224$moviedb',	#make-sure this DB is in MySQL8-DB
+        'NAME': 'Anusha1224$default',	#make-sure this DB is in MySQL8-DB
         'USER': 'Anusha1224',
         'PASSWORD': 'root@123',
     }
